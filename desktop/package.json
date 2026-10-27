@@ -1,0 +1,11 @@
+{
+  "name": "deepseek-harness-arm64-shell",
+  "version": "1.0.0",
+  "private": true,
+  "main": "main.js",
+  "description": "DeepSeek Harness Windows ARM64 desktop shell",
+  "devDependencies": {
+    "@electron/packager": "20.3.0",
+    "electron": "44.7.0"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+payload/
+*.exe
+*.zip
+*.msi
+*.log
+.env
+.env.*
+.dsh/
+dist/
+build/
